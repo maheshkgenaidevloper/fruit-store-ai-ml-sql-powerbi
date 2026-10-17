@@ -1,0 +1,8 @@
+FRUIT STORE ML MODEL EVALUATION
+--------------------------------
+Dataset rows: 20
+Training rows: 16
+Testing rows: 4
+MAE: 22.01 units
+RMSE: 25.78 units
+R2 score: 0.750
